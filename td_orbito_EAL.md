@@ -34,7 +34,7 @@ $sin(\psi)=sin(i)sin(\omega)$
 On en déduit : $\omega = arcsin(\frac{sin(\psi)}{sin(i)})=108°$.
 
 ### 5
-L'énergie mécanique est la somme des éniergies cinétique et potentielle :
+L'énergie mécanique est la somme des énergies cinétique et potentielle :
 $E_{M}=E_{C}+E_{P}$
 
 i.e. $\frac{-\mu}{2a}=\frac{1}{2}v^{2} - \frac{\mu}{r}$
@@ -77,6 +77,9 @@ Les discontinuités visibles correspondent à des manoeuvres du satellite.
 
 ### 2
 Le rapport de commensurabilité pour GLONASS est de 17:8 (17 périodes en 8 jour). Ainsi : $n=\frac{17}{8}\dot{\theta}$
-Et donc $(\frac{mu}{\frac{17}{8}\dot{\theta}})^{1/3}$
+Et donc $(\frac{\mu}{\frac{17}{8}\dot{\theta}})^{1/3}$
 
 
+## Exercice 4
+
+### 1
